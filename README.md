@@ -50,4 +50,3 @@ Organizations often struggle to gain clear insights into the effectiveness of th
 **GitHub Link:** [https://github.com/rohanrodu/Marketing-Campaign-Performance](https://github.com/rohanrodu/Marketing-Campaign-Performance/)
 
 ---
-**GitHub Link:** [https://github.com/bhaskarasp/Marketing-Campaign-Performance](https://github.com/bhaskarasp/Marketing-Campaign-Performance/)
