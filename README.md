@@ -4,6 +4,9 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-150458?style=for-the-badge&logo=numpy&logoColor=red)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-150458?style=for-the-badge&logo=matplotlib&logoColor=green)
+![Seaborn](https://img.shields.io/badge/Seaborn-150458?style=for-the-badge&logo=seaborn&logoColor=white)
 
 ## 📌 Project Overview
 Organizations often struggle to gain clear insights into the effectiveness of their marketing campaigns, making it difficult to identify high-value customers and successful channels. This project provides a data-driven solution to analyze customer behavior and campaign success factors using a combination of Python for data engineering and Power BI for business intelligence.
